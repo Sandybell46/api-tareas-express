@@ -1,0 +1,16 @@
+{
+  "name": "api-tareas",
+  "version": "1.0.0",
+  "description": "API REST de tareas creada con Node.js y Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
