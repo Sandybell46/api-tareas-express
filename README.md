@@ -167,13 +167,3 @@ Si una tarea no existe:
 
 La API responde con codigo `404`.
 
-## Pantallazos de pruebas
-
-Antes de entregar, agregar aqui pantallazos de Postman mostrando:
-
-1. GET `/tareas`.
-2. POST `/tareas`.
-3. PUT `/tareas/:id`.
-4. DELETE `/tareas/:id`.
-5. Una validación con respuesta `400`.
-6. Una búsqueda inexistente con respuesta `404`.
